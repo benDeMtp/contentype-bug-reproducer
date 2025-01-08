@@ -2,7 +2,7 @@
 
 Reproduce the problem caused by quarkus-rest-client-jackson.
 
-There is to branches :
+There is two branches :
 
 - **main** : without quarkus-rest-client-jackson
 - **issue** : with quarkus-rest-jackson
